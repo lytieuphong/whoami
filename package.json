@@ -1,6 +1,6 @@
 {
   "name": "@lytieuphong/whoami",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Tell you who am I",
   "main": "index.js",
   "scripts": {
